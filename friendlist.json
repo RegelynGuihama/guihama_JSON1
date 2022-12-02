@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Regelyn Mae Guihama",
+        "Age": 21,
+        "Address": "Pavia, Iloilo",
+        "Likes": "Listening to music",
+        "Dislikes": "Being awake",
+        "Feeling": "Stressed"
+    },
+    {
+        "name": "Asilanom Rice Senday",
+        "age": 22,
+        "address": "Pavia, Iloilo",
+        "likes": "Ligo Legends",
+        "dislikes": "BBM",
+        "feeling": "Tired"
+    },
+    {
+        "name": "Abdul Aziz Alejaga",
+        "age": 22,
+        "address": "Jaro",
+        "likes": "food",
+        "dislikes": "lies",
+        "feeling": "sick"
+    },
+    {
+        "name": "Ivygail Soberano",
+        "age": 22,
+        "address": "Jaro",
+        "likes": "Leni",
+        "dislikes": "BBM",
+        "feeling": "good"
+    }
+]
